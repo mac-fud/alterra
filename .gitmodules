@@ -1,0 +1,3 @@
+[submodule "flexi-exercise"]
+	path = flexi-exercise
+	url = https://github.com/mac-fud/flexi-exercise
